@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 one safasdfsad asdf
 two sdf asdfasjkd fhjasdhfk
 three sdf jasdfh aoishfiash df
 four sdfmasldfjasdfnio sad
 five sdkfjasoidfio as
 six sadfasdlkf jaslkdf alsk f
+=======
+hello, who's life?? i just wanna dance!! hahaha? ... woz'
+>>>>>>> cf2f9e9a69187ef2313e0ffe29368cdb8d53a4b0
